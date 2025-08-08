@@ -23,7 +23,7 @@ In a word, I will be always looking for interesting machine learning ideas suppo
 **"Those who can imagine anything, can create the impossible"-Alan Turing**. Feel free to drop me an email 📬 **wanrong.yang@liverpool.ac.uk**
 
 # 🔥 News
-- One paper accepted by **the 28th European Conference on Artificial Intelligence (ECAI-2025)**, see you guys in Italy!
+- One paper accepted by **the 28th European Conference on Artificial Intelligence (ECAI-2025)**, top conference in theoretical AI, see you in Italy!
 - I will serve as a **Session Chair** at *IEEE International Conference on Cyber Security and Resilience* (IEEE CSR) in Cret, Greece, 2025.
 
 # 🎓 Educations
@@ -37,8 +37,8 @@ In a word, I will be always looking for interesting machine learning ideas suppo
   - **Yang, W.**, and Wojtczak, D.,et al., [A Survey for Deep Reinforcement Learning Based Network Intrusion Detection](https://arxiv.org/pdf/2410.07612), under review in Applied AI Letter.
 
 ## AI for Medical Sciences
+  - David H. Mguni, Jing Dong, **Wanrong Yang**, et al., [Reinforcement Learning for Target Zone Blood Glucose Control](https://arxiv.org/pdf/2508.03875)
   - Meng, B., Xi, L. **Yang, W.**, et al., [Advancing Cross-Organ Domain Generalization with Test-Time Style Transfer and Diversity Enhancement](https://arxiv.org/pdf/2503.18567?), 2025 IEEE 22nd International Symposium on Biomedical Imaging (ISBI).
-  - **Yang, W.**, Zhou, Y., et al., Multimodality radiomics model for improving MR-guided radiotherapy of prostate cancer, The 16th International Conference for Stereology and Image Analysis (ICSIA-2023, accepted). ***[PDF](https://1drv.ms/b/s!Al_icwM1ADsmjSnEfjmAYdAgimRT?e=xbZlxe)***
   - Li, W., Xu, J., **Yang, W.**, et al. [Approach and Application of Extracting Matching Features From E-nose Signals for AI Tasks](https://www.sciencedirect.com/science/article/pii/S1746809423013022?dgcid=coauthor). Biomedical Signal Processing and Control (JCR Q1), 2023. ***[PDF](https://1drv.ms/b/s!Al_icwM1ADsmjGsLrXT4lyWJaP1i?e=h5HuOo)***
   - **Yang, W.**, Xu, J. ...  & Li, W. [Diagnosis of cardiac abnormalities based on phonocardiogram using a novel fuzzy matching feature extraction method](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-023-02379-x). BMC medical informatics and decision making (JCR Q1), 2022. ***[PDF](https://1drv.ms/b/s!Al_icwM1ADsmjHXUJuJqApFume3K?e=XHT7Gv)***
   - Xiang, J., **Yang, W.**, Li, W. [Digital Signal Extraction Approach for Cardiotocography Image](https://www.sciencedirect.com/science/article/pii/S0169260722004709). Computer Methods and Programs in Biomedicine (JCR Q1), 2022. ***[PDF](https://1drv.ms/b/s!Al_icwM1ADsmjG_JGsNBFA-wDqZE?e=XxkuEF)***
