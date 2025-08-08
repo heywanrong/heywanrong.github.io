@@ -23,7 +23,7 @@ In a word, I will be always looking for interesting machine learning ideas suppo
 **"Those who can imagine anything, can create the impossible"-Alan Turing**. Feel free to drop me an email 📬 **wanrong.yang@liverpool.ac.uk**
 
 # 🔥 News
-- One paper accepted by **the 28th European Conference on Artificial Intelligence (ECAI-2025)**, top conference in theoretical AI, see you in Italy!
+- One paper accepted by **the 28th European Conference on Artificial Intelligence (ECAI-2025)**, top conference in theoretical AI.
 - I will serve as a **Session Chair** at *IEEE International Conference on Cyber Security and Resilience* (IEEE CSR) in Cret, Greece, 2025.
 
 # 🎓 Educations
