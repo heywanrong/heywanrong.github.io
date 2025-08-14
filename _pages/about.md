@@ -93,6 +93,7 @@ In a word, I will be always looking for interesting machine learning ideas suppo
 
 # 🎨 My Little Corner
 - **[Python Implementation for LEXGO Algorithm](https://github.com/wanrongyang/LEXGO_star)**, a python tool for multiobjective shortest path problems.
+- **[Visitor Map](https://mapmyvisitors.com/web/1bytd)**, a map to show where my visitors are from.
 
 # 🔩 Interesting Tools
 - **1.Make your Life much easier**
@@ -126,7 +127,7 @@ In a word, I will be always looking for interesting machine learning ideas suppo
 - [**5.Some textbooks**](https://1drv.ms/f/s!Al_icwM1ADsmjSpz9st6B9vcTzen?e=PfqnBh) Here you can find my research related books, however you may need to request clearance from me
 
 
-# 🚀 Research Supports and Cooperation
+# 🌍 Research Supports and Cooperation
 <div style="text-align: center;">
     <img src="images/SP.jpg" alt="Supportive institutions" width="95%">
 </div>
