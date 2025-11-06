@@ -12,7 +12,7 @@ redirect_from:
 
 # ✨ About me
 
-Hi, there! This Wanrong, welcome to my wonderland! Currently, I am a PhD student in computer sciences at [EPSRC Centre for Doctoral Training (CDT) in Distributed Algorithm](https://www.liverpool.ac.uk/distributed-algorithms-cdt/), 
+Hi, there! This Wanrong (Galilean), welcome to my wonderland! Currently, I am a PhD student in computer sciences at [EPSRC Centre for Doctoral Training (CDT) in Distributed Algorithm](https://www.liverpool.ac.uk/distributed-algorithms-cdt/), 
 which is a fascinating place to generate future leader in data science and artificial intelligence. Before this, I obtained my bachelor's degree in Biomedical Engineering 
 with the highest honor from joint education of [Shenzhen Institute of Advanced Technology(SIAT), University of Chinese Academy of Sciences(UCAS)](https://www.siat.ac.cn/) and 
 Chongqing University of Technology (CQUT). During my undergraduate study, with the supervision of Dr.Wang Li and Dr.Shengping Liu, 
@@ -33,7 +33,7 @@ In a word, I will be always looking for interesting machine learning ideas suppo
 # 📝 Publications
 ## Theoretical Computer Sciences
   - **Yang, W.**, Wojtczak, D., [Efficient Inference of Sources and Targets in a Graph with Limited Observations](https://ebooks.iospress.nl/volumearticle/76325),28th European Conference on Artificial Intelligence (ECAI-2025)
-  - **Yang, W.**, Wang, M, Wojtczak, D., Abstract Attack Intention Inference Using Low-Rank Gated Arithmetic Interactive Attention, 2025 IEEE International Conference on Cyber Security and Resilience (IEEE CSR-2025).
+  - **Yang, W.**, Wang, M, Wojtczak, D., [Abstract Attack Intention Inference Using Low-Rank Gated Arithmetic Interactive Attention](https://ieeexplore.ieee.org/abstract/document/11129983), 2025 IEEE International Conference on Cyber Security and Resilience (IEEE CSR-2025).
   - **Yang, W.**, and Wojtczak, D.,et al., [A Survey for Deep Reinforcement Learning Based Network Intrusion Detection](https://arxiv.org/pdf/2410.07612), under review in Applied AI Letter.
 
 ## AI for Medical Sciences
@@ -62,8 +62,10 @@ In a word, I will be always looking for interesting machine learning ideas suppo
   - **Technical Reviewer** at *IEEE International Conference on Cyber Security and Resilience* (IEEE CSR), 2025
   - **Technical Reviewer** at *IEEE International Conference on AI Standardization and Quality Assurance*, 2025
   - **Technical Reviewer** at *IEEE International Symposium on Biomedical Imaging* (ISBI), 2025
+  - **Technical Reviewer** at *Annual AAAI Conference on Artificial Intelligence* (AAAI), 2026
 
 ## Teaching
+  - Teaching Assistant for **Introduction to the Theory of Computation**, University of Liverpool, 2025.09
   - Teaching Assistant for **Data Mining**, University of Liverpool, 2025.02
   - Teaching Assistant for **CyberSecurity**, University of Liverpool, 2025.02
   - Teaching Assistant for **Applied Artificial Intelligence**, University of Liverpool, 2025.02
