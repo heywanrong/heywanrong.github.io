@@ -32,7 +32,7 @@ In a word, I will be always looking for interesting machine learning ideas suppo
 
 # 📝 Publications
 ## Theoretical Computer Sciences
-  - **Yang, W.**, Wojtczak, D., Efficient Inference of Sources and Targets in a Graph with Limited Observations,28th European Conference on Artificial Intelligence (ECAI-2025)
+  - **Yang, W.**, Wojtczak, D., [Efficient Inference of Sources and Targets in a Graph with Limited Observations](https://ebooks.iospress.nl/volumearticle/76325),28th European Conference on Artificial Intelligence (ECAI-2025)
   - **Yang, W.**, Wang, M, Wojtczak, D., Abstract Attack Intention Inference Using Low-Rank Gated Arithmetic Interactive Attention, 2025 IEEE International Conference on Cyber Security and Resilience (IEEE CSR-2025).
   - **Yang, W.**, and Wojtczak, D.,et al., [A Survey for Deep Reinforcement Learning Based Network Intrusion Detection](https://arxiv.org/pdf/2410.07612), under review in Applied AI Letter.
 
@@ -49,7 +49,7 @@ In a word, I will be always looking for interesting machine learning ideas suppo
 # 📻 Invited Talks
 - *2025.05*, 2nd year PhD workshop, University of Liverpool
 - *2025.03*, Abstract attack intention inferences, CDT, University of Liverpool
-- *2024.09*, Deep attack intention inference with improved attention mechanism, University of York (Over 50 audiences)
+- *2024.09*, Deep attack intention inference with improved attention mechanism, University of York (Over 50 audiences), [See here](https://drive.google.com/file/d/1HB74vAEqtGN7QaGzq5wgxLZD_7eVhulA/view?usp=sharing)
 - *2024.09*, Deep attack intention inference, IT Services, University of Liverpool (148 audiences)
 - *2024.04*, Deep reinforcement learning in network intrusion detection, PhD student presentation, Alan Turing Institute, London, UK
 - *2024.04*, Deep reinforcement learning with its application, SIAT, University of Chinese Academy of Sciences
