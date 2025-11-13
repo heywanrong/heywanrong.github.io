@@ -95,7 +95,6 @@ In a word, I will be always looking for interesting machine learning ideas suppo
 
 # 🎨 My Little Corner
 - **[Python Implementation for LEXGO Algorithm](https://github.com/wanrongyang/LEXGO_star)**, a python tool for multiobjective shortest path problems.
-- **[Visitor Map](https://mapmyvisitors.com/web/1bytd)**, a map to show where my visitors are from.
 
 # 🔩 Interesting Tools
 - **1.Make your Life much easier**
