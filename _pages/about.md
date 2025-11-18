@@ -94,7 +94,10 @@ In a word, I will be always looking for interesting machine learning ideas suppo
 - Research Training and Support Grant (RTSG), CDT, University of Liverpool, 2023.09 - 2027.09, **£12,000**
 
 # 🎨 My Little Corner
-- **[Python Implementation for LEXGO Algorithm](https://github.com/wanrongyang/LEXGO_star)**, a python tool for multiobjective shortest path problems.
+- **1.My Blog**
+  - **[Split Things Into Pieces and and Give Yourself a Kind Boost for Each One](https://flame-curve-e4d.notion.site/Split-Things-Into-Pieces-and-and-Give-Yourself-a-Kind-Boost-for-Each-One-2af6357afdc08055a19dee08f96da726)**
+- **2.Personal Projects**
+  - **[Python Implementation for LEXGO Algorithm](https://github.com/wanrongyang/LEXGO_star)**, a python tool for multiobjective shortest path problems.
 
 # 🔩 Interesting Tools
 - **1.Make your Life much easier**
